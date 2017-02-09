@@ -1,0 +1,2 @@
+<center><font color="blue"size="50"><b>Download QuickJob Application Version 2</font></b><br><img src="/download/qrcode.png"><br><font color="green"size="20">or</font><br>
+<a href="/download/quickjob-ver1.apk"><font color="blue"size="30">Link: http://Bit.ly/quickjobver2</center>
